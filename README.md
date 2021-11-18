@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jallison241
+- 👋 Hi, I’m @Jay
 - 👀 I’m interested in ... expanding my knowledge for Software Development
 - 🌱 I’m currently learning ...json, PHP, JAVA, Javascript, Python, C#, C++, HTML, UI, API
 - 💞️ I’m looking to collaborate on ...json, PHP, JAVA, Javascript, Python, C#, C++, HTML, UI, API
